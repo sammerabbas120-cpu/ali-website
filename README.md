@@ -73,16 +73,16 @@ Moreover, education creates awareness about social issues such as cleanliness, h
 
     <h2 id="habit">My Habit</h2>
     <p>
-        My favorite habit is reading books. Reading improves my vocabulary
-        and knowledge. It also helps me relax and learn new ideas.
-        This habit makes me a better student and thinker.
+        Everyone has some habits that shape their personality and daily life. My favorite habit is reading books. This habit has become an important part of my life because it gives me knowledge, confidence, and peace of mind. I started reading books at a young age, and with time it turned into a positive routine.
+Reading books improves my vocabulary and communication skills. It helps me understand different ideas, cultures, and perspectives. Whenever I feel stressed or tired, reading a book relaxes my mind and refreshes my thoughts. It also improves my imagination and creativity.
+This habit has made me more disciplined and focused on my studies. It keeps me away from bad activities and unnecessary use of mobile phones. As the saying goes, “Books are our best friends.” I believe that good habits like reading books lead a person toward success and a meaningful life.
     </p>
 
     <h2 id="friend">My Best Friend</h2>
     <p>
-        My best friend is very kind and honest. A true friend supports us
-        in difficult times. Friendship teaches us loyalty, trust, and care.
-        “A real friend is one who walks in when the rest of the world walks out.”
+        A best friend is one of the most precious gifts in life. My best friend is very kind, honest, and supportive. He always stands by me in difficult times and shares my happiness as well as my sorrows. A true friend understands our feelings without words and guides us toward the right path.
+My best friend encourages me to work hard and never give up. We study together, help each other, and share our dreams. His good character and positive attitude inspire me to become a better person. Friendship teaches us important values such as trust, loyalty, and cooperation.
+Life becomes easier and more enjoyable when we have a sincere friend. As someone rightly said, “A real friend is one who walks in when the rest of the world walks out.” I am thankful to have such a wonderful friend in my life.
     </p>
 
 </div>
