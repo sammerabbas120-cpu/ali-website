@@ -1,5 +1,21 @@
 <html>
 <head>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+h1 {
+  color: #2c3e50;
+}
+h2 {
+  color: #34495e;
+}
+p {
+  line-height: 1.6;
+}
+</style>
   <title>Ali Website</title>
 </head>
 <body>
