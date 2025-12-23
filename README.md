@@ -6,6 +6,22 @@ long essays for students to improve writing skills.
 <head>
     <title>Ali's Website</title>
     <style>
+        .menu {
+    background-color: #2c3e50;
+    padding: 12px;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
         body 
         <nav class="menu">
     <a href="#home">Home</a>
