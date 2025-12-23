@@ -1,4 +1,8 @@
 <html>
+    <p>
+Welcome to Summer Essays. This website provides simple and
+long essays for students to improve writing skills.
+</p>
 <head>
     <title>Ali's Website</title>
     <style>
