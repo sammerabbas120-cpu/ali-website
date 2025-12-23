@@ -93,8 +93,6 @@ long essays for students to improve writing skills.
     <h2 id="education">Importance of Education</h2>
     <p>
         Education is the foundation of a strong and successful society. It plays a vital role in shaping the character, knowledge, and skills of an individual. Through education, people learn how to think critically, make wise decisions, and distinguish between right and wrong. An educated person can understand the world better and contribute positively to the development of the nation.
-        <img width="1536" height="1024" alt="file_00000000f9587209a99fce004420e3f3" src="https://github.com/user-attachments/assets/26e84533-e735-4ac6-8d71-8619ca301620" />
-
 Education opens the doors of opportunities and success. It helps people acquire professional skills that enable them to earn a respectable livelihood. A society with educated citizens enjoys lower crime rates, better health conditions, and economic stability. Education also promotes equality by giving everyone a chance to grow, regardless of their background.
 Moreover, education creates awareness about social issues such as cleanliness, human rights, and environmental protection. It teaches us discipline, responsibility, and respect for others. As Nelson Mandela said, “Education is the most powerful weapon which you can use to change the world.” Therefore, education is not only important for personal growth but also essential for national progress.
     </p>
