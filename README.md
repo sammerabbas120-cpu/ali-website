@@ -1,12 +1,19 @@
 <html>
     <p>
-Welcome to Summer Essays. This website provides simple and
+Welcome to Sammar Essays. This website provides simple and
 long essays for students to improve writing skills.
 </p>
 <head>
     <title>Ali's Website</title>
     <style>
-        body {
+        body 
+        <nav class="menu">
+    <a href="#home">Home</a>
+    <a href="#education">Education</a>
+    <a href="#habit">My Habit</a>
+    <a href="#friend">Best Friend</a>
+</nav>
+        {
             font-family: Arial, sans-serif;
             background-color: #f4f6f8;
             margin: 0;
